@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="flyGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8B5CF6"/>
+      <stop offset="100%" style="stop-color:#6366F1"/>
+    </linearGradient>
+  </defs>
+  <circle cx="100" cy="100" r="90" fill="url(#flyGradient)"/>
+  <g fill="#ffffff">
+    <!-- Stylized bird/plane shape representing Fly.io -->
+    <path d="M50 100 L80 70 L150 70 L120 100 L150 130 L80 130 Z"/>
+    <circle cx="90" cy="100" r="8"/>
+    <path d="M100 85 L140 85 L130 100 L140 115 L100 115 L110 100 Z" fill-opacity="0.7"/>
+  </g>
+</svg>
